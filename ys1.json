@@ -1,6 +1,8 @@
 {
     "INV1" : "1 no.",
     "INV2" : "2 no.",
+    "INV3" : "3 no.",
+
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
